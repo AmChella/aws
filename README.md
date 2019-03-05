@@ -1,9 +1,9 @@
 # aws-service
 
-[![Latest Stable Version](https://poser.pugx.org/router/slim/v/stable)](https://packagist.org/packages/tnq/aws-services)
-[![Total Downloads](https://poser.pugx.org/router/slim/downloads)](https://packagist.org/packages/tnq/aws-services)
-[![Latest Unstable Version](https://poser.pugx.org/router/slim/v/unstable)](https://packagist.org/packages/tnq/aws-services)
-[![License](https://poser.pugx.org/router/slim/license)](https://packagist.org/packages/tnq/aws-services)
+[![Latest Stable Version](https://poser.pugx.org/tnq/aws-services/v/stable)](https://packagist.org/packages/tnq/aws-services)
+[![Total Downloads](https://poser.pugx.org/tnq/aws-services/downloads)](https://packagist.org/packages/tnq/aws-services)
+[![Latest Unstable Version](https://poser.pugx.org/tnq/aws-services/v/unstable)](https://packagist.org/packages/tnq/aws-services)
+[![License](https://poser.pugx.org/tnq/aws-services/license)](https://packagist.org/packages/tnq/aws-services)
 
 application with Slim Framework
 
