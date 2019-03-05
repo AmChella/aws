@@ -1,4 +1,4 @@
-# awsService
+# aws-service
 
 [![Latest Stable Version](https://poser.pugx.org/router/slim/v/stable)](https://packagist.org/packages/tnq/aws-services)
 [![Total Downloads](https://poser.pugx.org/router/slim/downloads)](https://packagist.org/packages/tnq/aws-services)
